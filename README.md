@@ -4,4 +4,4 @@ I completed a power bi project in collaboration with UNP(United Network of Profe
 
 PROJECT PBIX FILE: https://drive.google.com/file/d/14p9l8wrYHqPfikG4Y2ulyy6nqOJjfkSe/view?usp=sharing
 
-PROJECT PDF FILE:
+PROJECT PDF FILE: https://drive.google.com/file/d/1FsMhVgO3Fj0Zs0SJ-IrxggyRq0kVRcCl/view?usp=drive_link
